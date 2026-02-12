@@ -1,6 +1,6 @@
 // Code Practice: Slime World
-// Name: 
-// Date: 
+// Name: Drullkus
+// Date: 2/11/26
 
 let config = {
     type: Phaser.AUTO,
